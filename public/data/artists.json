@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Asha Singh",
+    "category": ["Singer"],
+    "priceRange": "₹10,000 - ₹20,000",
+    "location": "Mumbai",
+    "languages": ["Hindi", "English"],
+    "bio": "Versatile Bollywood and pop singer.",
+    "image": "/images/asha.jpg",
+    "feeRange": "10k-20k"
+  },
+  {
+    "id": "2",
+    "name": "Rahul Mehra",
+    "category": ["Dancer"],
+    "priceRange": "₹8,000 - ₹15,000",
+    "location": "Delhi",
+    "languages": ["Hindi"],
+    "bio": "Contemporary and classical dance performer.",
+    "image": "/images/rahul.jpg",
+    "feeRange": "8k-15k"
+  },
+  {
+    "id": "3",
+    "name": "DJ Maya",
+    "category": ["DJ"],
+    "priceRange": "₹15,000 - ₹30,000",
+    "location": "Bangalore",
+    "languages": ["English"],
+    "bio": "Popular club and event DJ.",
+    "image": "/images/maya.jpg",
+    "feeRange": "15k-30k"
+  },
+  {
+    "id": "4",
+    "name": "Suresh Kumar",
+    "category": ["Speaker"],
+    "priceRange": "₹5,000 - ₹12,000",
+    "location": "Chennai",
+    "languages": ["Tamil", "English"],
+    "bio": "Motivational speaker and emcee.",
+    "image": "/images/suresh.jpg",
+    "feeRange": "5k-12k"
+  }
+] 
